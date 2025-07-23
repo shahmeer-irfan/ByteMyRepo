@@ -1,0 +1,10 @@
+sentence-transformers
+scikit-learn
+langchain
+langchain-community
+langchain-pinecone
+pinecone-client
+openai
+python-dotenv
+PyGithub
+GitPython
